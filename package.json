@@ -1,0 +1,24 @@
+{
+  "name": "100_pset_mbta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getData.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoshanarayanan/100_pset_mbta.git"
+  },
+  "author": "neosha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neoshanarayanan/100_pset_mbta/issues"
+  },
+  "homepage": "https://github.com/neoshanarayanan/100_pset_mbta#readme"
+}
